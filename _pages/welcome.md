@@ -11,31 +11,30 @@ header:
 intro: 
   - excerpt: 'Under Construction'
 feature_row:
-  - image_path: /assets/images/logo.png
+  - image_path: /assets/images/Documents.svg
     alt: "placeholder logo"
 #    title: "Documents"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "/documents/"
-    btn_label: "Service & Documents"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/logo.png
+
+  - image_path: /assets/images/Contact.svg
     alt: "placeholder logo"
 #    title: "Contact"
 #    excerpt: "Kontaktliste."
     url: "/contact/"
-    btn_label: "Contact"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/logo.png
+
+  - image_path: /assets/images/Instagram.svg
     alt: "placeholder logo"
-#    title: "Instagramm"
+#    title: "Instagram"
 #    excerpt: "For more Information and Stuff feel free to visit Instagram"
     url: "https://www.instagram.com/astaunibielefeld/"
-    btn_label: "Instagramm"
-    btn_class: "btn--primary"
 
+#{% include feature_row id="intro" type="center" %}
 ---
 
-{% include feature_row id="intro" type="center" %}
+
+
+
 
 {% include feature_row %}
 

@@ -1,14 +1,18 @@
 ---
 title: "AStA-Sekretariat"
+author_profile: false
 excerpt_separator: "<!--more-->"
 categories:
   - AStA
 tags:
   - Contact
+  
 
-author:
-  name   : "AStA-Sekretariat"
-  bio : "Phone: 0521 106 3436 <br> Office: S1-??"
-  avatar : "/assets/images/bio-photo.jpg"
 
 ---
+
+**AStA-Sekretariat:** <br>
+Phone: 0521 106 3436 <br>
+Mail: sekreteriat@asta-bielefeld.de <br>
+Office: S1-204
+
